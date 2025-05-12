@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Raj, a Full-Stack Software Engineer passionate about building scalable systems, designing cloud-native architectures, and solving real-world problems through elegant code. 
+Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong foundation in backend systems, cloud infrastructure, and scalable web application development. I'm passionate about solving real-world problems through elegant code. 
 
 - 🎓 Master's in Computer Science – Purdue University
 - 🧠 Interests: Fullstack Engineering, Backend Engineering, Cloud Infrastructure, System Design, DevOps
