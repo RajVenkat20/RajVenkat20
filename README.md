@@ -12,11 +12,11 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 
 ```bash
 💻 Languages:      Python | Java | JavaScript | SQL | TypeScript | C++
-🌐 Frameworks:     React | Tailwind | Next.js | Vue.js
+🌐 Frameworks:     React | Next.js | Vue.js
 🛠️ Backend:        FastAPI | Spring Boot | Node.js | Express.js
 ☁️ Cloud & Infra:  AWS | GCP | Docker | Kubernetes | Terraform
-📊 Databases:      PostgreSQL | MongoDB | MySQL | DynamoDB
-🔧 Dev Tools:      Git | GitHub Actions | Jenkins | VS Code | JIRA | Jenkins
+📊 Databases:      PostgreSQL | MongoDB | MySQL 
+🔧 Dev Tools:      Git | GitHub Actions | Jenkins | VS Code | JIRA | 
 ```
 <br />
 
