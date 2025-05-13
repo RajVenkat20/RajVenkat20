@@ -16,7 +16,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 🛠️ Backend:        FastAPI | Spring Boot | Node.js | Express.js
 ☁️ Cloud & Infra:  AWS | GCP | Docker | Kubernetes | Terraform
 📊 Databases:      PostgreSQL | MongoDB | MySQL 
-🔧 Dev Tools:      Git | GitHub Actions | Jenkins | VS Code | JIRA | 
+🔧 Dev Tools:      Git | GitHub Actions | Jenkins | VS Code | JIRA
 ```
 <br />
 
@@ -31,7 +31,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 <p> 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=RajVenkat20&show_icons=true&theme=radical" alt="Raj's GitHub Stats" /> 
   <br />  -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=dark" alt="GitHub Streak" />
 <!--   <br />  -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Top Languages"> -->
 </p>
