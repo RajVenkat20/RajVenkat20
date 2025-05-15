@@ -7,7 +7,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 - 🎓 Master's in Computer Science – Purdue University
 - 🧠 Interests: Fullstack Engineering, Backend Engineering, Cloud Infrastructure, System Design, DevOps
 - 🌱 I'm currently building a web application to brush up my Full-stack and DevOps skills, and studying System Design to understand architectures, implementations, and issues.
-<br />
+<hr />
 
 ## 🧰 Tech Stack
 
@@ -19,13 +19,13 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 📊 Databases:      PostgreSQL | MongoDB | MySQL 
 🔧 Dev Tools:      Git | GitHub Actions | Jenkins | VS Code | JIRA
 ```
-<br />
+<hr>
 
 ## 🏅 Certifications
 
 - AWS Certified Developer – Associate (In-progress)
 - System Design Primer (Self-study via Grokking & real-world work)
-<br />
+<hr>
 
 ## 📈 GitHub Stats
 <div align=center>
@@ -51,7 +51,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
   <img src="https://profile-counter.glitch.me/RajVenkat20/count.svg" alt="Visitor's Count" />
 </div>
 -->
-
+<hr>
 <div align="center">
   <p>Reach out to me at</p>
   <a id="LinkedIn" href="https://www.linkedin.com/in/raj-venkat-reddy-mavuram/?utm_source=github"  ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.svg" alt="LinkedIn" /></a>&nbsp;
@@ -62,9 +62,3 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
   <a id="Mail"     href="mailto:mrajvenkatreddy@gmail.com"                         ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/mail.svg"     alt="Mail"     /></a>
 </div>
 <br />
-
-<div align="center">
-  <a href="#">
-    <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" alt="Built with Love Badge">
-  </a>
-</div>
