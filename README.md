@@ -6,6 +6,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 
 - 🎓 Master's in Computer Science – Purdue University
 - 🧠 Interests: Fullstack Engineering, Backend Engineering, Cloud Infrastructure, System Design, DevOps
+- 🌱 I'm currently building a web application to brush up my Full-stack and DevOps skills, and studying System Design to understand architectures, implementations, and issues
 <br />
 
 ## 🧰 Tech Stack
@@ -48,14 +49,22 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 </div>
 <br />
 
-<p align="center">
+<!--
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/RajVenkat20/count.svg" alt="Visitor's Count" />
+</div>
+-->
+
+<div align="center">
+  <p>Reach out to me at</p>
   <a id="LinkedIn" href="https://www.linkedin.com/in/raj-venkat-reddy-mavuram/?utm_source=github"  ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.svg" alt="LinkedIn" /></a>&nbsp;
   <a id="Twitter"  href="https://x.com/mrajvenkatreddy?utm_source=github"   ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/twitter.svg"  alt="Twitter"  /></a>&nbsp;
   <a id="Website"  href="https://mrajvenkatreddy.dev/?utm_source=github"       ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/web.svg"      alt="Website"  /></a>&nbsp;
   <a id="Dev.to"   href="https://dev.to/rmavuram?utm_source=github"     ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/dev.svg"      alt="Dev.to"   /></a>&nbsp;
   <a id="Medium"   href="https://medium.com/@mrajvenkatreddy?utm_source=github"    ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/medium.svg"   alt="Medium"   /></a>&nbsp;
   <a id="Mail"     href="mailto:mrajvenkatreddy@gmail.com"                         ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/mail.svg"     alt="Mail"     /></a>
-</p>
+</div>
 <br />
 
 <div align="center">
