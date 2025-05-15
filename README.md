@@ -1,4 +1,6 @@
-<h1 align="center">🧙‍♂️ Raj Venkat Reddy Mavuram</h1>
+<div align="center">
+  <h1>🧙‍♂️ Raj Venkat Reddy Mavuram</h1> <img src="https://profile-counter.glitch.me/RajVenkat20/count.svg" alt="Visitor's Count" />
+</div>
 
 ## 👨‍💻 About Me
 
@@ -33,8 +35,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
   <img width=450 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=dark&count_private=true&locale=en" alt="Raj Venkat Reddy Mavuram's streak" />
 </div>
 
-<hr>
-
+<!--
 ## 👁️‍🗨️ Profile views counter
 <div>
   <a href="https://u8views.com/github/RajVenkat20">
@@ -43,14 +44,8 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
   <br/>
   <br/>
 </div>
-<br />
-
-<!--
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/RajVenkat20/count.svg" alt="Visitor's Count" />
-</div>
 -->
+
 <hr>
 <div align="center">
   <p>Reach out to me at</p>
