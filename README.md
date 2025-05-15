@@ -30,7 +30,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 ## 📈 GitHub Stats
 <div align=center>
   <img width=450 height=250 src="https://github-readme-stats.vercel.app/api?username=RajVenkat20&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Raj Venkat Reddy Mavuram's GitHub Stats" />
-  <img width=475 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=dark&count_private=true&locale=en" alt="Raj Venkat Reddy Mavuram's streak" />
+  <img width=450 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=dark&count_private=true&locale=en" alt="Raj Venkat Reddy Mavuram's streak" />
 </div>
 
 <hr>
