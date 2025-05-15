@@ -35,18 +35,20 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
   <img width=450 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=dark&count_private=true&locale=en" alt="Raj Venkat Reddy Mavuram's streak" />
 </div>
 
-<!--
-## 👁️‍🗨️ Profile views counter
-<div>
-  <a href="https://u8views.com/github/RajVenkat20">
-    <img src="https://u8views.com/api/v1/github/profiles/51791867/views/day-week-month-total-count.svg" alt="Raj Venkat Reddy Mavuram's profile views">
-  </a>
-  <br/>
-  <br/>
+<hr>
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajVenkat20/RajVenkat20/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajVenkat20/RajVenkat20/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
--->
 
 <hr>
+
 <div align="center">
   <p>Reach out to me at</p>
   <a href="https://mrajvenkatreddy.dev" target="_blank">
@@ -65,15 +67,3 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" />
   </a>
 </div>
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajVenkat20/RajVenkat20/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajVenkat20/RajVenkat20/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
