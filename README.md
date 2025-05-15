@@ -6,7 +6,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 
 - 🎓 Master's in Computer Science – Purdue University
 - 🧠 Interests: Fullstack Engineering, Backend Engineering, Cloud Infrastructure, System Design, DevOps
-- 🌱 I'm currently building a web application to brush up my Full-stack and DevOps skills, and studying System Design to understand architectures, implementations, and issues
+- 🌱 I'm currently building a web application to brush up my Full-stack and DevOps skills, and studying System Design to understand architectures, implementations, and issues.
 <br />
 
 ## 🧰 Tech Stack
@@ -28,21 +28,17 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 <br />
 
 ## 📈 GitHub Stats
+<div align=center>
+  <img width=450 height=250 src="https://github-readme-stats.vercel.app/api?username=RajVenkat20&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Raj Venkat Reddy Mavuram's GitHub Stats" />
+  <img width=475 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=dark&count_private=true&locale=en" alt="Raj Venkat Reddy Mavuram's streak" />
+</div>
 
-<p> 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=RajVenkat20&show_icons=true&theme=radical" alt="Raj's GitHub Stats" /> 
-  <br />  -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVenkat20&theme=dark" alt="GitHub Streak" />
-<!--   <br />  -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Top Languages"> -->
-</p>
-<br />
+<hr>
 
-## Profile views counter 👁️‍🗨️
-
+## 👁️‍🗨️ Profile views counter
 <div>
   <a href="https://u8views.com/github/RajVenkat20">
-    <img src="https://u8views.com/api/v1/github/profiles/51791867/views/day-week-month-total-count.svg" alt="Raj Venkat Reddy Mavuram profile views">
+    <img src="https://u8views.com/api/v1/github/profiles/51791867/views/day-week-month-total-count.svg" alt="Raj Venkat Reddy Mavuram's profile views">
   </a>
   <br/>
   <br/>
