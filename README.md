@@ -47,6 +47,10 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
   </picture>
 </div>
 
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <hr>
 
 <div align="center">
