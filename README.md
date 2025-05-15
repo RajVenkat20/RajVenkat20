@@ -49,11 +49,19 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 <hr>
 <div align="center">
   <p>Reach out to me at</p>
-  <a id="LinkedIn" href="https://www.linkedin.com/in/raj-venkat-reddy-mavuram/?utm_source=github"  ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.svg" alt="LinkedIn" /></a>&nbsp;
-  <a id="Twitter"  href="https://x.com/mrajvenkatreddy?utm_source=github"   ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/twitter.svg"  alt="Twitter"  /></a>&nbsp;
-  <a id="Website"  href="https://mrajvenkatreddy.dev/?utm_source=github"       ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/web.svg"      alt="Website"  /></a>&nbsp;
-  <a id="Dev.to"   href="https://dev.to/rmavuram?utm_source=github"     ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/dev.svg"      alt="Dev.to"   /></a>&nbsp;
-  <a id="Medium"   href="https://medium.com/@mrajvenkatreddy?utm_source=github"    ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/medium.svg"   alt="Medium"   /></a>&nbsp;
-  <a id="Mail"     href="mailto:mrajvenkatreddy@gmail.com"                         ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/mail.svg"     alt="Mail"     /></a>
+  <a href="https://mrajvenkatreddy.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=google-chrome&logoColor=%2300FF99" />
+  </a>
+  <a href="https://www.linkedin.com/in/raj-venkat-reddy-mavuram/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mrajvenkatreddy" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-FFF9C4?style=for-the-badge&logo=medium&logoColor=%23000000" />
+  </a>
+  <a href="mrajvenkatreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://dev.to/rmavuram" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" />
+  </a>
 </div>
-<br />
