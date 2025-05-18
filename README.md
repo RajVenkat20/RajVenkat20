@@ -49,6 +49,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built My GitHub Profile README to Stand Out as a Full-Stack Engineer](https://medium.com/@mrajvenkatreddy/how-i-built-my-github-profile-readme-to-stand-out-as-a-full-stack-engineer-9e7390ded302?source=rss-349d47fbcbc8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
