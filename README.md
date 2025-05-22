@@ -15,7 +15,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
 
 ```bash
 💻 Languages:      Python | Java | JavaScript | SQL | TypeScript | C++
-🌐 Frameworks:     React | Next.js | Vue.js
+🌐 Frameworks:     React | Next.js | Vue.js | Oracle JET | Oracle ADF
 🛠️ Backend:        FastAPI | Spring Boot | Node.js | Express.js
 ☁️ Cloud & Infra:  AWS | GCP | Docker | Kubernetes | Terraform
 📊 Databases:      PostgreSQL | MongoDB | MySQL 
