@@ -59,7 +59,7 @@ Hi! I'm Raj Venkat Reddy Mavuram, a Full-Stack Software Engineer with a strong f
   <a href="https://mrajvenkatreddy.dev" target="_blank">
   <img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=google-chrome&logoColor=%2300FF99" />
   </a>
-  <a href="https://www.linkedin.com/in/raj-venkat-reddy-mavuram/" target="_blank">
+  <a href="https://www.linkedin.com/in/rmavuram/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@mrajvenkatreddy" target="_blank">
